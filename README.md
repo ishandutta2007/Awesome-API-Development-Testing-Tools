@@ -62,9 +62,9 @@ The table below catalogs major hosted SaaS platforms for API development, testin
 
 ## 💻 Open-Source GitHub Projects
 
-The following active open-source repositories power local-first API development, automated regression testing, contract verification, load benchmarking, and mocking. Repositories are decorated with live stargazers count badges and sorted in **descending order by star count**.
+The following active open-source repositories power local-first API development, automated regression testing, contract verification, load benchmarking, and mocking. Repositories are decorated with live stargazers count badges and sorted in **descending order by Stars_Count**.
 
-| Repository & Stars ⭐ | Description 📝 | Primary Focus 🔍 |
+| Repository & GitHub_Stars ⭐ | Description 📝 | Primary Focus 🔍 |
 | :--- | :--- | :--- |
 | **[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)** <br> [![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) | Open-source API development ecosystem. Self-hostable web, desktop, and CLI client supporting REST, GraphQL, WebSocket, SSE, Socket.IO, and MQTT. | Web & Desktop API Client |
 | **[usebruno/bruno](https://github.com/usebruno/bruno)** <br> [![Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers) | Fast, Git-friendly open-source API client storing collections as plain-text `.bru` files directly inside your code repository for version-controlled testing. | Local-First Git API Client |
@@ -113,7 +113,7 @@ Contributions make the open-source community thrive! Follow these steps to submi
 2. 🌿 **Create a Branch**: `git checkout -b feature/add-new-tool`
 3. ✏️ **Edit `README.md`**:
    - For SaaS tools: Add accurate pricing tiers, verified free limits, and estimated company valuation/revenue in the table.
-   - For Open-Source projects: Insert repo link, live star badge, description, and place it in the correct descending star count position.
+   - For Open-Source projects: Insert repo link, live Stars_Badge, description, and place it in the correct descending Stars_Count position.
 4. 🚀 **Submit a Pull Request**: Provide a concise summary and official source links for verification.
 
 ---
